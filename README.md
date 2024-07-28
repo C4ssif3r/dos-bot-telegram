@@ -1,6 +1,6 @@
 telegram dos bot ( BGMI, CODM, and other games )
 
-    + for site ? i dont test this on site !
+- for site ? i dont test this on site !
 
 
 
