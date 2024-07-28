@@ -12,7 +12,7 @@ import telebot
 import subprocess
 import datetime
 import os
-
+os.system("chmod 777 kitty")
 from keep_alive import keep_alive
 keep_alive()
 # Insert your Telegram bot token here
